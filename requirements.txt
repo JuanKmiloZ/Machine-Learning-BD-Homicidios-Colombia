@@ -2,6 +2,7 @@
 supabase
 
 # Analsis de datos & Machine learning 
+datetime
 Pandas 
 numpy 
 polars
