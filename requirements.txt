@@ -19,13 +19,6 @@ empiricaldist
 # Visualización 
 streamlit
 
-plotly.express 
-prophet 
-prophet.plot
+plotly
+prophet==1.2.1
 matplotlib
-
-
-json
-base64
-
-time
